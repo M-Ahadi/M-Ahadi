@@ -11,8 +11,6 @@
 - [AVideo](https://github.com/WWBN/AVideo) 
 - [AVideo-Encoder](https://github.com/WWBN/AVideo-Encoder)
 - [Yahoo Weather](https://github.com/M-Ahadi/yahoo_weather)
-- [Bale Bot python](https://github.com/balemessenger/bale-bot-python)
-- [Bale Bot Nodejs](https://github.com/M-Ahadi/bale-bot-nodejs)
 
 ---
 **Achievements**
