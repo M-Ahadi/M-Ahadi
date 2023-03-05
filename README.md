@@ -1,6 +1,5 @@
 ## My name is Mojtaba Ahadi
-#### I am a DevOps Engineer at RUNC International Banking Solutions
-#### I also serve as a System Administrator
+#### I am a Python Developer, DevOps Engineer, and System Administrator
 #### For more information you can visit my website: [https://m-ahadi.ir](https://m-ahadi.ir) 
 
 ---
@@ -16,10 +15,7 @@
 
 ---
 **Achievements**
-<div>
-<img src='https://github.githubassets.com/images/modules/profile/badge--acv-64.png?raw=true' alt='https://github.githubassets.com/images/modules/profile/badge--acv-64.png' height='100' >
-<img src='https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png?raw=true' alt='https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png' height='100' >
-</div>
+
 
 
 <div>
