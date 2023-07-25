@@ -5,7 +5,7 @@
 ---
 
 
-**Open Source Projects I Contribute To:**
+**Open Source Projects I Contributed To:**
 
 - [Hyperledger Fabric CA](https://github.com/hyperledger/fabric-ca) 
 - [AVideo](https://github.com/WWBN/AVideo) 
@@ -14,21 +14,7 @@
 - [Bringing Old Photos Back to Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 
 ---
-**Achievements**
 
-
-
-<div>
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=m-ahadi&show_icons=true)
- </div>
- 
- 
- <div>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=m-ahadi&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
 <div align="center">
   <a href="https://github.com/m-ahadi"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' ></a>  
   <a href="https://www.linkedin.com/in/mojtabaahadi/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a>
